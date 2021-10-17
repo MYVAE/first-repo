@@ -4,7 +4,7 @@
 #include <stdio.h>
 int main (){
     float loan,rate,payment,first,second,third;
-    printf("Enter amount of loan:");
+    printf("Enter the amount of loan:");
     scanf("%f",&loan);
     printf("Enter interest rate:");
     scanf("%f",&rate);
